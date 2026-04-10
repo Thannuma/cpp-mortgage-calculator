@@ -1,6 +1,9 @@
 /*
    Name: Thanik Bharani
    Lab #: 5
+   Mortgage Calculator
+   Calculates monthly mortgage payments and total housing cost
+   using interest rate, loan duration, taxes, utilities, and insurance.
 */
 
 #include <iostream>
